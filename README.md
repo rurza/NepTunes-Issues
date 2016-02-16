@@ -6,8 +6,8 @@ Simple Last.fm scrobbler for iTunes, that works with Apple Music streaming and c
 You can buy it [here](https://itunes.apple.com/us/app/neptunes-minimalistic-last.fm/id1006739057?mt=12).
 Standard price is $2.99 - think of it as buying me a good beer 🍻 😊
 
-## Official [website](http://micropixels.pl/neptunes/).
+#### Official [website](http://micropixels.pl/neptunes/).
 
-## 1.1 Changelog [here](http://blog.micropixels.pl/blog/NepTunes-1.1-Changelog)
+#### 1.1 Changelog [here](http://blog.micropixels.pl/blog/NepTunes-1.1-Changelog)
 
 This repository is only for issue tracking.
