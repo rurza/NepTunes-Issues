@@ -1,7 +1,7 @@
 # NepTunes Issues
 This repository is only for issue tracking.
 
-If you have issue with NepTunes or idea how to make it better create [new Issue](https://github.com/rurza/NepTunes-Issues/issues/new) or write me an [e-mail](mailto:adam@micropixels.pl) or find me on [twitter](https://twitter.com/rurza).
+If you have any issue with NepTunes or idea, how to make it better create [new Issue](https://github.com/rurza/NepTunes-Issues/issues/new) or write me an [e-mail](mailto:adam@micropixels.pl) or find me on [twitter](https://twitter.com/rurza).
 
 Simple Last.fm scrobbler for iTunes, that works with Apple Music streaming and can integrate results from Last.fm with Apple Music Library.  
 You can buy it [here](https://itunes.apple.com/us/app/neptunes-minimalistic-last.fm/id1006739057?mt=12).
