@@ -11,7 +11,10 @@ If you have any issue with NepTunes or idea how to make it better, create [new i
 
 #### Official [website](http://micropixels.pl/neptunes/).
 
-#### 1.1 Changelog [here](http://blog.micropixels.pl/blog/NepTunes-1.1-Changelog)
+#### 1.2 Changelog [post on my blog](http://blog.micropixels.pl/neptunes-12-full-changelog)
+
+
+#### 1.1 Changelog [post on my blog](http://blog.micropixels.pl/neptunes-11-changelog)
 
 # Screenshots
 ![Controller](http://micropixels.pl/neptunes/screenshots/controller.png)
