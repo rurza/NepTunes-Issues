@@ -21,4 +21,4 @@ If you have any issue with NepTunes or idea how to make it better, create [new i
 ![Share](http://micropixels.pl/neptunes/screenshots/share.png)
 ![Recent menu](http://micropixels.pl/neptunes/screenshots/recent.png)
 ![Offline](http://micropixels.pl/neptunes/screenshots/offline.png)
-![Hotkeys](http://micropixels.pl/neptunes/screenshots/hotkeys.png)
+![Hotkeys](http://micropixels.pl/neptunes/screenshots/newhotkeys.png)
