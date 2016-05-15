@@ -17,7 +17,7 @@ If you have any issue with NepTunes or idea how to make it better, create [new i
 #### 1.1 Changelog [post on my blog](http://blog.micropixels.pl/neptunes-11-changelog)
 
 # Screenshots
-![Controller](http://micropixels.pl/neptunes/screenshots/controllr.png)
+![Controller](http://micropixels.pl/neptunes/screenshots/controller.png)
 ![Share](http://micropixels.pl/neptunes/screenshots/share.png)
 ![Recent menu](http://micropixels.pl/neptunes/screenshots/recent.png)
 ![Offline](http://micropixels.pl/neptunes/screenshots/offline.png)
